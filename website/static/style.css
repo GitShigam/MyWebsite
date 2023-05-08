@@ -1,0 +1,38 @@
+.nav {
+    height: 50px;
+    background-color:gray;    
+}
+
+h1 {
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+#box-left {
+    float: left;
+    background-image: url("https://www.quarks.de/wp-content/uploads/baumriesen2.jpg");    
+    width: 400px;
+    height: 1209px;
+    margin: 0px;    
+} 
+
+#box-mid {
+    background-image: url("https://media0.giphy.com/media/jeCSe7Qqc7NwKUzxH7/giphy.gif?cid=ecf05e473xuk1qchrd4itlvngz59whvs1jywn7v6ddvpom8u&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    margin-left: 400px;
+    margin-right: 400px;
+    height: 1209px;
+}
+
+#box-rigth {
+    float: right;
+    background-image: url("https://www.quarks.de/wp-content/uploads/baumriesen2.jpg");   
+    width: 400px;
+    height: 1209px;
+    margin: 0px;
+}
